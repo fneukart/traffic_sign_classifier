@@ -1,0 +1,9 @@
+data
+.ipynb_checkpoints
+*.h5
+models
+*.swp
+*.p
+submission/
+valeeda.ipynb
+Convolutional_ANN.ipynb
